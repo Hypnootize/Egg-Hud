@@ -212,7 +212,54 @@
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
 		"fgcolor"		"TanDark"
-	}		
+	}
+	"PlayerStatusSlowed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusSlowed"
+		"xpos"			"0"
+		"ypos"			"347"       //180
+		"zpos"			"7"
+		"wide"			"24"
+		"tall"			"24"
+		"visible"		"1"		
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../vgui/slowed"
+		"fgcolor"		"TanDark"
+	}
+	
+	"PlayerStatusHookBleedImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHookBleedImage"
+		"xpos"			"0"
+		"ypos"			"347"       //180
+		"zpos"			"7"
+		"wide"			"24"
+		"tall"			"24"
+		"visible"		"1"		
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../vgui/bleed_drop_grapple"
+		"fgcolor"		"TanDark"
+	}
+	
+	"PlayerStatusGasImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusGasImage"
+		"xpos"			"0"
+		"ypos"			"347"       //180
+		"zpos"			"7"
+		"wide"			"24"
+		"tall"			"24"
+		"visible"		"1"		
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../vgui/covered_in_gas"
+		"fgcolor"		"TanDark"
+	}
 	"PlayerStatusMilkImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -458,7 +505,7 @@
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"Red"
 	}
-		"PlayerStatus_RuneStrength"
+	"PlayerStatus_RuneStrength"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneStrength"
