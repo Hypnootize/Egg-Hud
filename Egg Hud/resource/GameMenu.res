@@ -1,23 +1,5 @@
 "GameMenu"
 {
-	"CasualButton"
-	{
-		"label" "casual" 
-		"command" "play_casual"
-		"subimage" "glyph_multiplayer"
-	}
-	"CompetitiveButton"
-	{
-		"label" "competitive" 
-		"command" "play_competitive"
-		"subimage" "glyph_multiplayer"
-	}
-	"MvMButton"
-	{
-		"label" "mvm" 
-		"command" "play_mvm"
-		"subimage" "glyph_multiplayer"
-	}
 	"ServerBrowserButton"
 	{
 		"label"			"servers"
