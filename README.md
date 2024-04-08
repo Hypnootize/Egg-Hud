@@ -1,7 +1,15 @@
-# Egg-Hud
+<div align="center">
 
-**[SCREENSHOTS ALBUM](https://imgur.com/a/LC3No)** 
+# Egg Hud
+### By eggnormous
 
-**[INSTALLATION](https://imgur.com/a/w3Ah6)**
+**[SCREENSHOTS](../screenshots/showcase.md)** -
+**[INSTALLATION](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/windows_install.md)** -
+**[CONTRIBUTING](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/contributing/github_contributing.md)** -
+**[ORIGINAL REPO](https://github.com/eggnormous/eggHUD)**
 
-![](https://i.imgur.com/hCaOhs5.jpg)
+![Main Menu](../screenshots/01_Main_Menu.jpg)
+![Health Buff](../screenshots/02_Health_Buff.jpg)
+![Health & Ammo Low](../screenshots/03_Health_Ammo_Low.jpg)
+![Scoreboard](../screenshots/04_Scoreboard.jpg)
+![Win & Damage](../screenshots/05_Win.jpg)
